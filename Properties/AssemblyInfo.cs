@@ -6,10 +6,10 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("COMP123-S2019-Week11")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("This application demonstrates MenuStrips, ToolsStrips and DataGridView")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("COMP123-S2019-Week11")]
+[assembly: AssemblyCompany("Centennial College")]
+[assembly: AssemblyProduct("My App")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
